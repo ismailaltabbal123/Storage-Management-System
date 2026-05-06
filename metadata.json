@@ -1,0 +1,6 @@
+{
+  "name": "Admin Nexus",
+  "description": "A robust user and permission management dashboard with role-based access control and persistent simulated storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
